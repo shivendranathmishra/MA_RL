@@ -1,5 +1,7 @@
-![IMG_20240828_233810](https://github.com/user-attachments/assets/85b35f11-4ffe-4c7d-ad0c-55937d7dcfa7)Assignment 1 
+Assignment 1 
 Question 1 (Results)
+
+![IMG_20240828_233810](https://github.com/user-attachments/assets/85b35f11-4ffe-4c7d-ad0c-55937d7dcfa7)
 
 Transition Probability Table
 
