@@ -1,4 +1,4 @@
-Assignment 1 
+![IMG_20240828_233810](https://github.com/user-attachments/assets/85b35f11-4ffe-4c7d-ad0c-55937d7dcfa7)Assignment 1 
 Question 1 (Results)
 
 Transition Probability Table
@@ -92,13 +92,21 @@ Best action for AB: Class
 Best action for Canteen: Class
 
 
+![Uploading IMG_20240828_233810.jpg…]()
+
+
 
 
 Question2:
+
 Here The Blue Block shows the location of robot
+
 Green Block shows target of robot 
+
 Yellow Blocks shows the Ends of tunnel 
+
 Brown color blocks shows the wall in the grid
+
 ![Screenshot from 2024-08-28 23-15-58](https://github.com/user-attachments/assets/181901ff-2472-4b02-bb95-527a8c968b52)
 
 ![Screenshot from 2024-08-28 23-15-48](https://github.com/user-attachments/assets/97884a7a-0849-4a9c-ad0c-e138a987900a)
